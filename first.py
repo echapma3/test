@@ -2,9 +2,6 @@ print("test the second time")
 
 print("hello")
 
-print("test the second time")
-
-print("hello")
 
 
 print("12345")
